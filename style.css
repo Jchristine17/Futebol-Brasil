@@ -1,0 +1,12 @@
+.cabecalho{
+    background-color: #2E8252;
+}
+
+.cabecalho-imagem {
+ height: 20%;
+}
+
+#dov{
+    display: flex;
+    justify-content: center;
+}
