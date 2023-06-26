@@ -1,0 +1,12 @@
+.LogoFluminense{
+    background-color: black;
+}
+
+#dov{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: #7ca9bf;
+}

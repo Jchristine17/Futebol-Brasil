@@ -10,3 +10,12 @@
     display: flex;
     justify-content: center;
 }
+
+body{
+    background-color: #7ca9bf;
+}
+
+.ImagensBotao{
+    align-items: center;
+    justify-content: center;
+}
